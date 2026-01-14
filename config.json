@@ -7,14 +7,7 @@
     "dayNightCycle": false
   },
 
-  "player": {
-    "speed": 4,
-    "jumpForce": 16,
-    "gravity": 1,
-    "startPosition": {
-      "x": 200,
-      "y": 0
-    },
+
     "lives": 3
   },
 
