@@ -24,7 +24,7 @@
         "id": "ad_01",
         "x": 1000,
         "y": 200,
-        "video": "https://www.youtube.com/embed/kUvQHbiOxT0?si=2rkERNUgDuvKTaWN",
+        "video": "https://www.youtube.com/embed/BERhmE2tTac?si=kmoBeHbRnrHMTmN5",
         "rewardCoins": 5,
         "coinImage": "https://yourcdn.com/assets/coin.png"
       },
@@ -32,7 +32,7 @@
         "id": "ad_02",
         "x": 2000,
         "y": 180,
-        "video": "https://www.youtube.com/embed/anotherVideo",
+        "video": "https://www.youtube.com/embed/BERhmE2tTac?si=kmoBeHbRnrHMTmN5",
         "rewardCoins": 10,
         "coinImage": "https://yourcdn.com/assets/coin.png"
       },
@@ -40,7 +40,7 @@
         "id": "ad_03",
         "x": 3000,
         "y": 220,
-        "video": "https://www.youtube.com/embed/thirdVideo",
+        "video": "https://www.youtube.com/embed/BERhmE2tTac?si=kmoBeHbRnrHMTmN5",
         "rewardCoins": 15,
         "coinImage": "https://yourcdn.com/assets/coin.png"
       }
